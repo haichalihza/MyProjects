@@ -1,3 +1,4 @@
+# ~~~On Development~~~
 # Printing Machine Performance Dashboard
 
 ### Dashboard Link : https://drive.google.com/file/d/1eM8sVH96GKiqy9oSDhLj-dOsNTXfWq4q/view?usp=drive_link
@@ -22,4 +23,24 @@ The anomaly showed a numeric result (1 and -1). Result 1 means that the process 
 
 ![image](https://github.com/user-attachments/assets/46a12ad3-3026-4f9f-8343-202d94278472)
 
-# 
+# Insights
+
+Multi Page Dashboard was created on Power BI desktop. Home page showed 4 features that contain 4 dashboards that i was created. The features is Anomaly Page, Production Page, Perfrormance Page, and Summary Page
+Following inferences that can be drawn fron the dashboard :
+
+### [1] Anomaly Page
+
+This page showed result from the anomaly detection that was created using jupyter notebook python. The anomaly page showed anomaly existence on the production process per day. It also showed anomaly ratio per day on each product title. 
+
+### [2] Production Page
+
+This page showed an information of the production count of the printing process. The production amount on this page showed by per day, per shift, and per product title. By the visualization, the most production is on January 25<sup>th</sup> with 148 productions and the least production is on January 9<sup>th</sup> with 9 productions and January 8<sup>th</sup> with 6 productions.
+
+### [3] Performance Page
+
+The performance page showed the performance of the printing machine. It showed a comparison of the production and amount of the oplah (printed sheets) by per day and per product title.
+
+### [4] Summary Page
+
+The summary page contain a summary of the 3 pages before. It contain amount of oplah and production per product title, production amount per day. dan anomaly count on each product title.
+
