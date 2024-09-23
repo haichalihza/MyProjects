@@ -6,7 +6,7 @@
 
 This dashboard helps company to see how the performance of the printing machine that they use. It helps the company to know the result of the production and the performance from the printing machine they are using. It also let them know the anomalies in their printing machine production process.
 
-The time span in this dataset is from January 2nd 2024 until February 2nd 2024.
+The time span in this dataset is from January 2<sup>nd</sup> 2024 until February 2<sup>nd</sup> 2024.
 
 The anomaly showed a numeric result (1 and -1). Result 1 means that the process of the production doesn't contain an anomaly, whereas result -1 means that the process of the production contain an anomaly. 
 
