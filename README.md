@@ -10,7 +10,7 @@ The time span in this dataset is from January 2<sup>nd</sup> 2024 until February
 
 The anomaly showed a numeric result (1 and -1). Result 1 means that the process of the production doesn't contain an anomaly, whereas result -1 means that the process of the production contain an anomaly. 
 
-# Snapshot of The Dashboard (Power BI Service)
+# Snapshot of The Dashboard (Power BI)
 
 ![image](https://github.com/user-attachments/assets/02d4e9a4-9e2e-4428-9a95-f8635ca0fe75)
 
