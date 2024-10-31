@@ -1,3 +1,5 @@
+# ~~~Unfinished~~~
+
 # Recommendation System
 
 ### Dashboard Link : https://drive.google.com/file/d/1vRuuZzbwA4bNvvHX4F3C6ewsRUmqqBLn/view?usp=sharing
@@ -9,19 +11,11 @@ This project build an agricultural recommendation system in Wates Village, Blita
 
 ### Steps followed 
 
-in this project, tools that used to support my project, include :
+in this project, things that i do inlude:
 
-(1)   Python
-Python used as language to create the recommendation system. The dataset is from website of Wates Government. Commodity that we use in this project, are Red Onion, Red Chili Pepper, Cayenne Pepper, Melon, Tomato, Potato, Cabbage, Coffee, Rice Plant, Corn, Banana, Mango, Grape, Watermelon, Orange, Apple, and Papaya. 
+- Python used as language to create the recommendation system. The dataset is from website of Wates Government. Commodity that we use in this project, are Red Onion, Red Chili Pepper, Cayenne Pepper, Melon, Tomato, Potato, Cabbage, Coffee, Rice Plant, Corn, Banana, Mango, Grape, Watermelon, Orange, Apple, and Papaya. 
 
-This recommendation system based on 3 parameters, that are __Temperature__, __rainfall__, and __humidity__. These parameters used to the researh trials
-In our dataset, Some parameters were assigned value 0, representing those parameters are not applicable for some customers.
-
-All these values have been ignored while calculating average rating for each of the parameters mentioned above.
-
-- Step 12 : In the report view, under the insert tab, two text boxes were added to the canvas, in one of them name of the airlines was mentioned & in the other one company's tagline was written.
-- Step 13 : In the report view, under the insert tab, using shapes option from elements group a rectangle was inserted & similarly using image option company's logo was added to the report design area. 
-- Step 14 : Calculated column was created in which, customers were grouped into various age groups.
+This recommendation system based on 3 parameters, that are __Temperature__, __rainfall__, and __humidity__. These parameters used to the researh trials. The output result is like a graphic recommendation based on parameters that used. For example, red onions best planted at temperature 27&deg; - 30&deg;, rainfall 200 m/s - 240 m/s, and humidity 50% - 55%. For the recommendation result, it is like show a commodity that has highest prediction value based on the learning model that was created. 
 
 for creating new column following DAX expression was written;
        
